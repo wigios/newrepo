@@ -18,7 +18,7 @@ public class SeleniumTest {
      public static void openBrowser(){
          driver = new FirefoxDriver();
          driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-         //hOLA MUNDO WIGIOS
+         //hOLA MUNDO WIGIOS cambiado wigios
 		} 
  
 	 @Test
